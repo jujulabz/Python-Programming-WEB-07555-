@@ -7,3 +7,5 @@ Any info about starter code (If used, where it came from, link, etc.),
  """
  
 print("Hello there! This program will take your input and print out your orginal message as well as a backwards version.")
+
+User= input("Enter a string message: ")
