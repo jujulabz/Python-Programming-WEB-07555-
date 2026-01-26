@@ -15,3 +15,5 @@ reversed_string = User[::-1]
 print(f'Orginal message:{User}' f'\nreversed message:{reversed_string}')
 
 
+print(f'your orginal message has {len(User)} characters.')
+
