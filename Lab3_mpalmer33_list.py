@@ -6,11 +6,11 @@ Any info about starter code (If used, where it came from, link, etc.),
 1/25/26
  """
  
-Locations = ["Cuba","Japan","Vietnam","China","Peru","Jordan","Californa","Rome","Grecce","Thailand"]
+Camping_List = ["Tent","Clothes","Food","Portable Cahrger","Wipes","Blanket","Sleeping Bag","Medicine","Peper spray","Knife"]
 
-length = len(Locations) # length 
+length = len(Camping_List) # length 
 
 print(length) # printing Length of list
 
-print (sorted(Locations)) # Sorted List
+print (sorted(Camping_List)) # Sorted List
 

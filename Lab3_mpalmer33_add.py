@@ -1,11 +1,11 @@
-from Lab3_mpalmer33_list import Locations
+from Lab3_mpalmer33_list import Camping_List
 
-Locations.append("Ethopia")
-Locations.append("Germeny")
-Locations.append("Iran")
-Locations.append("El Salvador")
-Locations.append("Brazil")
+Camping_List.append("Fishing Pole")
+Camping_List.append("Bait")
+Camping_List.append("Ipad")
+Camping_List.append("FlashLight")
+Camping_List.append("Pots")
 
-Locations.sort(reverse=True)
+Camping_List.sort(reverse=True)
 
-print (Locations)
+print (Camping_List)

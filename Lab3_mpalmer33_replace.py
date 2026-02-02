@@ -1,9 +1,9 @@
-from Lab3_mpalmer33_add import Locations
+from Lab3_mpalmer33_add import Camping_List
 
-Locations = [Location.replace("Japan","binoculars")for Location in Locations]
+Camping_List = [Location.replace("Wipes","binoculars")for Location in Camping_List]
 
-print (Locations)
+print (Camping_List)
 
-print (Locations[0:5])
+print (Camping_List[0:5])
 
-print (Locations[5:15])
+print (Camping_List[5:15])
