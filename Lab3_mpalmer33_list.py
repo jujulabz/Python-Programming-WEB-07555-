@@ -8,5 +8,6 @@ Any info about starter code (If used, where it came from, link, etc.),
  
 Locations = ["Cuba","Japan","Vietnam","China","Peru","Jordan","Californa","Rome","Grecce","Thailand"]
 
+length = len(Locations) # length 
 
 
