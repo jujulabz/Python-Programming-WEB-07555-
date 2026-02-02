@@ -10,4 +10,7 @@ Locations = ["Cuba","Japan","Vietnam","China","Peru","Jordan","Californa","Rome"
 
 length = len(Locations) # length 
 
+print(length) # printing Length of list
+
+print (sorted(Locations)) # Sorted List
 
