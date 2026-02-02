@@ -12,17 +12,17 @@ Locations.sort(reverse=True)
 
 print(Locations) # Reverse Alphabitical
 
-Locations.reverse ()
+Locations.reverse () #reverse order
 
-print(Locations) #reverse 
+print(Locations) 
 
-Locations.reverse ()
-
-print(Locations)
-
-Locations.sort
+Locations.reverse () #reverse order
 
 print(Locations)
 
-Locations.sort(reverse=True)
+Locations.sort # reversed alphabitcal order
+
+print(Locations) 
+
+Locations.sort(reverse=True) # reversed alphabitcal order
 print(Locations)
