@@ -6,3 +6,6 @@ Locations.append("Iran")
 Locations.append("El Salvador")
 Locations.append("Brazil")
 
+Locations.sort(reverse=True)
+
+print (Locations)
